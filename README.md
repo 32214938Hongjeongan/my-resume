@@ -11,7 +11,7 @@ Markdown 기반으로 제가 학습한 내용들을 이력서 형식으로 READM
 <table>
   <tr>
     <td rowspan="5" width="180" align="center">
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=5" width="150" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/f89143ae-fa55-4ddc-a9fa-3b84990b4f7d" width="150" style="border-radius: 8px;">
     </td>
     <td><strong>항목</strong></td>
     <td><strong>내용</strong></td>
